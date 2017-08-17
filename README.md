@@ -1,6 +1,8 @@
 # Hangman Game
 
-For today's project, we'll be rewriting our previous Hangman Game using OOP. We'll explore **fundamental design** concepts.
+> This project is part of our [Introduction to Python Programming course](https://rmotr.com/introduction-to-python-programming)
+
+For today's project, we'll be rewriting our previous Hangman Game using OOP. We'll explore **fundamental object oriented design** concepts.
 
 There will be three main classes:
 
